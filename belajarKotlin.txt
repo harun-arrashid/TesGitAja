@@ -3,3 +3,5 @@ Belajar Kotlin 2021
 - Skripsi entah apa
 - Lazday Kasir
 - Week 8
+- Week 9
+- Week 10
