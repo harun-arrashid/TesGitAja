@@ -1,0 +1,5 @@
+Belajar Kotlin 2021
+- Android Jetpack
+- Skripsi entah apa
+- Lazday Kasir
+- Week 8
